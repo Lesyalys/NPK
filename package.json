@@ -1,0 +1,15 @@
+{
+  "name": "examnpk",
+  "version": "1.0.0",
+  "description": "platform for exams student",
+  "keywords": [
+    "exam"
+  ],
+  "license": "ISC",
+  "author": "lesinka",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
